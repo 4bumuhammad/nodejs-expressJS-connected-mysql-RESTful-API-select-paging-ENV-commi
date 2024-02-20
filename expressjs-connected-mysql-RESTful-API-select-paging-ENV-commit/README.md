@@ -279,7 +279,8 @@ lanjut coba jalankan kembali aplikasi
 ### eksekusi dengan CURL:
 
 #### contoh 1
-curl -X GET "http://localhost:3000/api/data?page=3&limit=20"
+
+    curl -X GET "http://localhost:3000/api/data?page=3&limit=20"
 
 output (convert with https://jsonprettier.com):
 
