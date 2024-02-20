@@ -40,6 +40,8 @@ periksa file json dan buat file js secara manual serta isinya.
 
 
 
+
+
 jalankan (command) :
 
     ❯ node app.js
